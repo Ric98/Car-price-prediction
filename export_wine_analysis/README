@@ -1,3 +1,4 @@
+*REVIEW*
 In questo progetto è stata effettuata un'analisi di export di vino toscano dall'Italia verso tutti i paesi europei. Ai fini dell'analisi ho utilizzato una funzione logistica
 per prevedere l'export nei prossimi anni, attraverso la libreria scipy e il suo modulo odein per la soluzione di equazioni differenziali.
 Inoltre, è stata effettuata anche un'analisi di cluster e un'ulteriore sviluppo di curve logistiche per singolo cluster (oltre che per paese)
