@@ -1,7 +1,7 @@
 # DATA SCIENCE
 
 
-In questa repository sono presenti diversi progetti di analisi dati e machine learning svolti durante il periodo accademico.
+In questa repository sono presenti diversi progetti di analisi dati e machine learning svolti durante il periodo accademico e post.
 Alcuni di loro presentano il codice, altri solamente il report finale.
 
 Di seguito i vari topic affrontati:
